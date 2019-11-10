@@ -42,7 +42,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral fellow and small group leader at the [Leibniz-HKI](https://www.leibniz-hki.de/en/home.html) in Jena, Germany with Prof. Axel Brakhage studying fungal biology and pathogenesis. My work here is centered on the conidial (spore) surface proteome, the extracellular vesicle biology of host-pathogenesis, and the importance of non-coding RNA in fungi. In the future, I hope to be able to establish my own group focused on harnessing our knowledge of extacellular vesicles and non-coding RNA for the development of RNA-based therapeutics and diagnostics for the treatment of fungal infections. 
+I am currently a postdoctoral fellow and small group leader at the [Leibniz-HKI](https://www.leibniz-hki.de/en/home.html) in Jena, Germany with Prof. Axel Brakhage studying fungal biology and pathogenesis. My work here is centered on the conidial (spore) surface proteome, the extracellular vesicle biology of host-pathogenesis, and the importance of non-coding RNA in fungi. In the future, I hope to be able to establish my own group focused on harnessing our knowledge of extracellular vesicles and non-coding RNA for the development of RNA-based therapeutics and diagnostics for the treatment of fungal infections. 
 
 I earned my PhD in Microbiology and Immunology studying the pathogenesis biochemistry of uropathogenic *Escherichia coli* with Prof. [Matt Mulvey](https://www.bioscience.utah.edu/faculty/mulvey/mulvey.php) at the University of Utah. I followed my PhD with a postdoctoral fellowship also at the University of Utah defining the endogenous pool of double-stranded RNA in mammalian immune cells with Prof. [Brenda Bass](https://biochem.utah.edu/bass/). 
 
