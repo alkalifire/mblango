@@ -35,3 +35,5 @@ url_video: ""
 [The Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) - birds are fun
 
 [iNaturalist](https://www.inaturalist.org/) - helping us all connect a bit more with nature
+
+[FOLDSCOPE Instruments](https://www.foldscope.com/) - Magnifying Curiosity Worldwide
