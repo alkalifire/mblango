@@ -1,5 +1,5 @@
 +++
-title = "The dynamic surface proteomes of allergenic fungal conidia"
+title = "Dynamic Surface Proteomes of Allergenic Fungal Conidia"
 date = "2020-03-31"
 authors = ["Matthew G. Blango", "Annica Pschibul", "Flora Rivieccio", "Thomas Krueger", "Muhammad Rafiq", "Lei-Jie Jia", "Tingting Zheng", "Marie Goldmann", "Vera Voltersen", "Jun Li", "Gianni Panagiotou", "Olaf Kniemeyer", "Axel A. Brakhage"]
 publication_types = ["2"]
