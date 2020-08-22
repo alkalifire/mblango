@@ -16,7 +16,7 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "**The RNA Biology of Fungal Infections**"
+#  title = 
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -35,7 +35,7 @@ height = "300px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "**The RNA Biology of Fungal Infections**"
+#  title = 
   content = ""
   align = "center"
 
@@ -44,7 +44,7 @@ height = "300px"
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "**The RNA Biology of Fungal Infections**"
+# title = 
   content = ""
   align = "center"
 
