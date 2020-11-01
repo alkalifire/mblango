@@ -18,20 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Independent Junior Group Leader"
+  company = "Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)"
+  company_url = "https://www.leibniz-hki.de/en/"
+  location = "Jena, Germany"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = """
+  Areas of Interest:
+  
+  * Mechanisms of regulation involving RNA
+  * The trafficking of extracellular vesicles during infection
+  * RNA-based therapeutics
+  """
+
+[[experience]]
   title = "Postdoctoral Fellow"
   company = "Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)"
   company_url = "https://www.leibniz-hki.de/en/"
   location = "Jena, Germany"
   date_start = "2016-05-01"
-  date_end = ""
-  description = """
-  Areas of Interest:
+  date_end = "2020-10-31"
+  description = """In this position I served as a postdoctoral fellow and small group leader in the group of Prof. Axel Brakhage, focused on proteomics of fungal conidia (spores), extracellular vesicle biology during fungal infection, and noncoding RNA biology in _A. fumigatus_."""
   
-  * Leader of small group focused on fungal pathogensis and extracellular vesicles
-  * Project centered on conidial surface proteome
-  * Project centered on fungal non-coding RNA biology
-  """
-
 [[experience]]
   title = "Postdoctoral Fellow"
   company = "University of Utah"
